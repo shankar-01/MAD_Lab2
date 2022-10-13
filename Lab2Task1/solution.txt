@@ -1,0 +1,4 @@
+1: onCreate, onStart, onResume
+2: onPause, onStop
+3: onRestart, onStart, onResume
+4: onPause, onStop, onDestory, onCreate, onStart, onResume
